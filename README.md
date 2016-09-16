@@ -8,7 +8,7 @@ https://github.com/saiwu-bigkoo/Android-ConvenientBanner<br>
 导航控件<br>
 https://github.com/HomHomLin/AdvancedPagerSlidingTabStrip<br>
 ![p1](https://raw.githubusercontent.com/HomHomLin/AdvancedPagerSlidingTabStrip/master/Pic/Screen_20160216163404.png)
-![p2](https://raw.githubusercontent.com/HomHomLin/AdvancedPagerSlidingTabStrip/master/Pic/Screen_20160216163428.png)
+![p2](https://raw.githubusercontent.com/HomHomLin/AdvancedPagerSlidingTabStrip/master/Pic/Screen_20160216163428.png)<br>
 ![p3](https://raw.githubusercontent.com/HomHomLin/AdvancedPagerSlidingTabStrip/master/Pic/Screen_20160216163452.png)
 ![p4](https://raw.githubusercontent.com/HomHomLin/AdvancedPagerSlidingTabStrip/master/Pic/Screen_20160411141706.png)
 
