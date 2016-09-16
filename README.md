@@ -14,7 +14,7 @@ https://github.com/HomHomLin/AdvancedPagerSlidingTabStrip<br>
 
 仿微信实现多图选择<br>
 https://github.com/lovetuzitong/MultiImageSelector<br>
-![Example1](https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/example_1.png) ![Select1](https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/select_1.png) ![Select2](https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/select_2.png) ![Select3](https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/example_4.png)
+![Example1](https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/example_1.png) ![Select1](https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/select_1.png) ![Select2](https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/select_2.png) ![Select3](https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/select_3.png)
 
 二维码<br>
 https://github.com/bingoogolapple/BGAQRCode-Android<br>
